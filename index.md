@@ -3,26 +3,26 @@ layout: default
 title: Home
 ---
 
-# 你好，我是 Pan（或你的名字）
+# Hello! My name is Yannan Pan.
 
 Cardiology · Electrophysiology · Atrial Fibrillation  
-Email: your_email@example.com · GitHub: https://github.com/pyn97
+Email: panyannan623@gmail.com
 
 ---
 
 ## About
-写一段 3–5 行简介：你是谁、做什么方向、你关心的问题。
+I'm an M.D. candidate from Peking University, majoring in internal medicine and cardiology. I received the Bachelor of Medicine degree in 2021, and finished internal medicine residency in 2024. Currently, I am undergoing cardiology fellowship training with interests in electrophysiology.
 
 ## Research Interests
-- Atrial fibrillation / atrial cardiomyopathy
-- Catheter ablation & EP mapping
-- ECG / digital biomarkers
-- Machine learning in medicine
+- Electrophysiology
+- Atrial fibrillation
+- ECG
+- Machine learning
 
 ## Selected Publications
 - Your Name, et al. Paper title. *Journal*, Year.
 - Your Name, et al. Paper title. *Journal*, Year.
 
 ## Projects
-- Project A: 一句话说明你在做什么
-- Project B: 一句话说明你在做什么
+- Project A: 
+- Project B: 
