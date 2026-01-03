@@ -1,4 +1,5 @@
 ---
+Title: Home
 ---
 
 # Hello! My name is Yannan Pan.
