@@ -2,15 +2,17 @@
 title: Home
 ---
 
-<div style="max-width: 1200px; margin: 20px auto; padding: 0 10px;">
-  <div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
+<link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 
-  <div style="flex:0 0 240px;">
+<div style="max-width: 1200px; margin: 20px auto; padding: 0 10px;">
+  <div style="display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
+
+  <div style="flex:0 0 220px;">
   <img src="assets/profile.jpg"
-       style="width:240px; border-radius:12px; object-fit:cover;" />
+       style="width:220px; border-radius:12px; object-fit:cover;" />
   </div>
 
-  <div style="flex:1; min-width:400px;">
+  <div style="flex:1; min-width:500px;">
 
     <h1 style="margin-top:0;">Hello! My name is Yannan Pan.</h1>
 
