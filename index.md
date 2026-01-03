@@ -2,14 +2,15 @@
 title: Home
 ---
 
-<div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap;">
+<div style="max-width: 1200px; margin: 20px auto; padding: 0 10px;">
+  <div style="display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
 
-  <div style="flex:0 0 260px;">
-    <img src="assets/profile.jpg" alt="Profile photo"
-         style="width:260px; border-radius:12px; object-fit:cover;" />
+  <div style="flex:0 0 240px;">
+  <img src="assets/profile.jpg"
+       style="width:240px; border-radius:12px; object-fit:cover;" />
   </div>
 
-  <div style="flex:1; min-width:280px;">
+  <div style="flex:1; min-width:400px;">
 
     <h1 style="margin-top:0;">Hello! My name is Yannan Pan.</h1>
 
